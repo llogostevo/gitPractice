@@ -1,2 +1,2 @@
-# gitPractice
+# first-branch
 A repository to practice teaching git to students
